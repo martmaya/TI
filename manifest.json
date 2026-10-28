@@ -1,0 +1,14 @@
+{
+  "name": "TIID | Imagina, desarrolla e innova",
+  "short_name": "TIID",
+  "description": "Explora las áreas, experiencias y oportunidades de la Ingeniería en Tecnologías de la Información e Innovación Digital.",
+  "lang": "es-MX",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#fbfaff",
+  "theme_color": "#6d28d9",
+  "categories": ["education", "technology"],
+  "icons": [{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
